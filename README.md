@@ -1,2 +1,2 @@
-# miv
-Miv - VIM like interactive editor writed on Bash
+# XED
+XED - ed like interactive editor writed on pure Bash
